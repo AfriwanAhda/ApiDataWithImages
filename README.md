@@ -1,8 +1,8 @@
-#  بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+# بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
 
 ApiDataWithImages
 
-[<img src="https://github.com/AfriwanAhda/KotlinRecyclerView/blob/master/LacakResi.gif">]
+[<img src="https://github.com/AfriwanAhda/ApiDataWithImages/blob/master/anigif.gif">]
 
 # MIT License
 
