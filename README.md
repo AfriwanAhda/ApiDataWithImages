@@ -2,7 +2,7 @@
 
 ApiDataWithImages
 
-[<img src="https://github.com/AfriwanAhda/ApiDataWithImages/blob/master/anigif.gif">]
+<img src="https://github.com/AfriwanAhda/ApiDataWithImages/blob/master/anigif.gif" width="301.932" height="500">
 
 # MIT License
 
